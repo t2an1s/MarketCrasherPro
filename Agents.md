@@ -6,15 +6,7 @@ The end goal is to have 1 main EA MarketCrasherProp.mq5, controlling the open tr
 
 Be critical, meticulous when coding and creative at troubleshooting. 
 
-NOTE: Avoid marking with arrows <<<<<<< or ====== (see example below) the code you deliver as it causes headaches when it comes to merge script in github.
-
-<<<<<<< 6i061f-codex/fix-synergy-score-and-pivot-issues
-      
-=======
-
->>>>>>> main
-
-
+NOTE: You are authorised to create or delete files from the repository upon my request. 
 
 Priority is to ensure parity with TV Strategy and that all ported features are fully functional. Dashboard (below) will be done at a later stage. <img width="513" alt="Screenshot 2025-05-17 at 10 36 05 AM" src="https://github.com/user-attachments/assets/f9df3bb5-1849-4f24-b89a-5b969fcc9f1a" />
 
